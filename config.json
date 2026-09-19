@@ -1,0 +1,9 @@
+{
+  "rows": 10,
+  "cols": 15,
+  "drag_speed_ms": 25,
+  "move_interval_ms": 40,
+  "hotkey_start": "F8",
+  "hotkey_stop": "/",
+  "saved_bbox": null
+}
